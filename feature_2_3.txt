@@ -1,2 +1,0 @@
-6. featureブランチ作業(2)
-feature_2_3 textです．
